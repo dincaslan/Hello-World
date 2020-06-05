@@ -58,9 +58,9 @@ Fatma Betul DINCASLAN {#title}
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### NUS Research Scholar
+### NUS Research Scholar (Currently)
 
-(Currently) Biomedical Engineering, NUS
+Biomedical Engineering, NUS (Supervisor: Lih Feng CHEOW)
 
 Singapore
 
@@ -70,7 +70,7 @@ Singapore
 
 ### Master Student
 
-Molecular Biology and Genetics, Bilkent University
+MBG, Bilkent University (Supervisor: Ozlen KONU)
 
 Ankara, Turkey
 
@@ -80,15 +80,15 @@ Ankara, Turkey
 
 - I analyzed tissue specificity (TS) of zebrafish, considering the dynamicity of gene expression, by using specific metrics such as Tau, Tsi. Then I applied the TS analysis on the mutant zebrafish embryos by using the publicly available datasets. I compared the effect of using different normalization methods on TS discovery as well. I performed qPCRs for in vivo confirmations after isolating the RNAs. I further investigated the relationship between ache and the retinal genes by using the tools like Gene Onthology (GO).
 
-#### Role of AChE as a tumor suppressor together with P53
+#### Role of AChE as a tumor suppressor together with p53
 
-- My role was to bred appropriate zebrafish lines dissect, genotype the fish tissues and embed them in OCT.
+- My role was to bred appropriate zebrafish lines, dissect, genotype the fish tissues and embed them in OCT.
 
 #### Identification of peridodontis disease related genes (collaboration w/Dentistry Department of Ankara University)
 
 - I assisted the dentistry students to perform both wet lab and bioinformatics analysis.
 
-#### Role of Mineralocorticoid Receptor in Breast Cancer
+#### Role of mineralocorticoid receptor in breast cancer
 
 - My roles in the wet lab part were RNA isolation and qPCR; for the dry lab, development of easy to use pipeline with Seven Bridges CGC and available R packages for RNA-Seq data analysis, and data visualization.
 
@@ -104,7 +104,7 @@ Ankara, Turkey
 
 ###  The relationship between some of Mesp family genes and other known somitogenesis genes in zebrafish vertebrae development
 
-Albert Einstein College of Medicine - Supersivor: Ertugrul Ozbudak
+Albert Einstein College of Medicine - Supersivor: Ertugrul OZBUDAK
 
 NY, USA
 
@@ -167,7 +167,7 @@ Ankara, Turkey
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### PhD. Student, Bomedical Engineering
+### PhD Student, Biomedical Engineering
 
 National University of Singapore
 
@@ -179,7 +179,7 @@ Singapore
 
 
 
-### M.Sc.in Molecular Biology and Genetics  
+### M.Sc., Molecular Biology and Genetics  
 
 Bilkent University
 
@@ -191,7 +191,7 @@ Thesis: Tissue Specific Transcriptome of Zebrafish in AChE Mutant Embryos
 
 
 
-### B.Sc. in Molecular Biology and Genetics
+### B.Sc., Molecular Biology and Genetics
 
 Bilkent University
 
@@ -201,7 +201,7 @@ Ankara, Turkey
 
 
 
-### English Preperation School
+### English Preparation School
 
 Bilkent University
 
@@ -211,7 +211,7 @@ Ankara, Turkey
 
 
 
-### Math and Science
+### Mathematics and Science
 
 Sami Yangin Anatolian High School
 
@@ -288,9 +288,10 @@ OTHER INTERESTS {data-icon=chess}
 ::: concise
 - Sports: Playing Basketball and Volleyball
 - Art and Music: Charcoal, Reed Flute(Beginner)
-- Games: Chess, Checker, Mind games such as Sudoku, Futoshiki, and so on.
-- Computer related Angular JS, Machine Learning, Git, C++ via SoloLearn
-- Other: Statistics shared by Conrad Hacketts, World Economic Forum, Economics and Forbes Magazine
+- Games: Chess, Checker, Mind games such as Sudoku, Kendoku, Futoshiki.
+- Computer related: HTML Fundamentals, CSS Fundamentals, JavaScript Tutorial, PHP Tutorial, SQL Fundamentals, Python 3
+Tutorial, C# Tutorial, Ruby Tutorial, Swift 4 Tutorial courses, certificated by SoloLearn
+- Other: Data science, statistics shared by Conrad Hacketts, World Economic Forum, Economics and Forbes Magazine. 
 :::
 
 
