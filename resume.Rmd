@@ -134,7 +134,7 @@ Ankara, Turkey
 
 ### MBG302 Molecular Biology of The Cell-II, Bilkent University
 
-Teaching assistant for molecular cloning experiments from plasmid editing, restriction enzyme digestion, and ligation to miniprep.
+Teaching assistant for the cell culture experiments from cell opening, passaging to scratch assay, kinase inhibition and crystal violet assays.
 
 Ankara, Turkey
 
@@ -150,7 +150,7 @@ Ankara, Turkey
 
 ### MBG223 Molecular Genetics, Bilkent University
 
-Teaching assistant for the cell culture experiments from cell opening, passaging to scratch assay, kinase inhibition and crystal violet assays.
+Teaching assistant for molecular cloning experiments from plasmid editing, restriction enzyme digestion, and ligation to miniprep.
 
 Ankara, Turkey
 
