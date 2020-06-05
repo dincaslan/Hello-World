@@ -55,69 +55,8 @@ Main
 Fatma Betul DINCASLAN {#title}
 --------------------------------------------------------------------------------
 
-### Currently a PhD Student at NUS
-
-The field I am currently working on is called single cell assay development. I am recently working on two different projects regarding the single cell sequencing and its application on microfluidics systems.
-
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
-
-### PhD. Student, Bomedical Engineering
-
-National University of Singapore
-
-Singapore
-
-2019 - 2023
-
-- Working on single cell assay development for various interests
-
-
-
-### M.Sc.in Molecular Biology and Genetics  
-
-Bilkent University
-
-Ankara, Turkey
-
-2017 - 2019
-
-Thesis: Tissue Specific Transcriptome of Zebrafish in AChE Mutant Embryos
-
-
-
-### B.Sc. in Molecular Biology and Genetics
-
-Bilkent University
-
-Ankara, Turkey
-
-2012 - 2016
-
-
-
-### English Preperation School
-
-Bilkent University
-
-Ankara, Turkey
-
-2012
-
-
-
-### Math and Science
-
-Sami Yangin Anatolian High School
-
-Kayseri, Turkey
-
-2011
-
-
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
-
 
 ### NUS Research Scholar
 
@@ -143,26 +82,35 @@ Ankara, Turkey
 
 #### Role of AChE as a tumor suppressor together with P53
 
-- My role was to dissect, genotype the fish tissues and embed them in OCT. Besides I bred appropriate zebrafish lines for the next steps of the project.
+- My role was to bred appropriate zebrafish lines dissect, genotype the fish tissues and embed them in OCT.
 
 #### Identification of peridodontis disease related genes (collaboration w/Dentistry Department of Ankara University)
 
-- Being a research assistant in this project, I assisted the dentistry students to perform both wet lab and bioinformatics analysis.
+- I assisted the dentistry students to perform both wet lab and bioinformatics analysis.
 
 #### Role of Mineralocorticoid Receptor in Breast Cancer
 
-- My roles in the wet lab part were isolating RNA, making cDNA, and qPCR; for the dry lab, development of easy to use pipeline with Seven Bridges CGC and available R packages for RNA-Seq data analysis, and data visualization.
+- My roles in the wet lab part were RNA isolation and qPCR; for the dry lab, development of easy to use pipeline with Seven Bridges CGC and available R packages for RNA-Seq data analysis, and data visualization.
 
-#### Senior Project and Internships
+### Investigation of allergen specific immunotherapy on patients with bee-venom allergy
 
+Bilkent University - Supervisor: Ihsan GURSEL 
 
-##### Investigation of allergen specific immunotherapy on patients with bee-venom allergy
+Ankara, Turkey
 
-- I experienced PBMC isolation (2015 - Fall, Bilkent University, Turkey - Supervisor: Ihsan GURSEL). 
+2015 Fall
 
-##### The relationship between some of Mesp family genes and other known somitogenesis genes in zebrafish vertebrae development
+- I experienced PBMC isolation
 
-- I did lots of in situ hybridization experiments with zebrafish embryos to study somitogenesis (2015 - Summer, Albert Einstein College of Medicine, NY, USA - Supersivor: Ertugrul Ozbudak).
+###  The relationship between some of Mesp family genes and other known somitogenesis genes in zebrafish vertebrae development
+
+Albert Einstein College of Medicine - Supersivor: Ertugrul Ozbudak
+
+NY, USA
+
+2015 Summer
+
+- I did lots of in situ hybridization experiments with zebrafish embryos to study somitogenesis.
 
 
 Teaching and Assistanships {data-icon=chalkboard-teacher}
@@ -214,7 +162,62 @@ KONU Lab, Bilkent Zebrafish Facility and Bilkent MBG Websites
 
 Ankara, Turkey
 
-2018-2019
+2018 - 2019
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### PhD. Student, Bomedical Engineering
+
+National University of Singapore
+
+Singapore
+
+2019 - 2023
+
+- I am currently working on two different projects regarding the single cell sequencing and its application on microfluidics systems.
+
+
+
+### M.Sc.in Molecular Biology and Genetics  
+
+Bilkent University
+
+Ankara, Turkey
+
+2017 - 2019
+
+Thesis: Tissue Specific Transcriptome of Zebrafish in AChE Mutant Embryos
+
+
+
+### B.Sc. in Molecular Biology and Genetics
+
+Bilkent University
+
+Ankara, Turkey
+
+2012 - 2016
+
+
+
+### English Preperation School
+
+Bilkent University
+
+Ankara, Turkey
+
+2012
+
+
+
+### Math and Science
+
+Sami Yangin Anatolian High School
+
+Kayseri, Turkey
+
+2011
 
 
 Awards and Honour {data-icon=award}
@@ -226,8 +229,7 @@ NUS Biomedical Engineering
 
 Singapore
 
-2019-2023
-
+2019 - 2023
 
 ### Graduated with High Honour for MSc Degree
 
@@ -237,6 +239,21 @@ Ankara, Turkey
 
 2019
 
+### ISCB Student Council Active Member
+
+Virtual webinars team
+
+World
+
+2020 -present
+
+### ISCB-RSG Turkey Student Council Active Member
+
+Social media and website content creator
+
+Turkey
+
+2018 - present
 
 ### Graduated with Honour for BSc Degree
 
@@ -246,6 +263,13 @@ Ankara, Turkey
 
 2016
 
+### Writer at Biomedya
+
+Turkish web-based magazine on synthetic biology and life sciences
+
+Turkey
+
+2016
 
 ### Comprehensive Scholarship
 
@@ -256,19 +280,10 @@ Ankara, Turkey
 2011-2016
 
 
-### Writer at Biomedya
-
-Turkish web-based magazine on synthetic biology and life sciences
-
-Turkey
-
-2016
-
-
 OTHER INTERESTS {data-icon=chess}
 --------------------------------------------------------------------------------
 
-### 
+###
 
 ::: concise
 - Sports: Playing Basketball and Volleyball
