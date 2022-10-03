@@ -24,7 +24,7 @@ Contact Info {#contact}
 - <i class="fa fa-linkedin"></i> [linkedin.com/fbdincaslan](https://www.linkedin.com/in/fbdincaslan)
 - <i class="fa fa-researchgate"></i> [researchgate.com/dincaslan](https://www.researchgate.net/profile/Fatma_Betul_Dincaslan)
 - <i class="fa fa-github"></i> [github.com/dincaslan](https://github.com/dincaslan)
-- <i class="fa fa-medium"></i> [medium.com/dincaslan](https://medium.com/@fatmab.dincaslan)
+- <i class="fa fa-medium"></i> [medium.com/dincaslan](https://fatmab-dincaslan.medium.com/)
 - For more information, please contact me via email.
 
 
@@ -33,11 +33,11 @@ Skills {#skills}
 
 - NGS data analysis (previous: bulk, recent: single).
 
-- Common bioinformatics tools such as NCBI, Blast, UCSC Genome Browser, Ensembl, Expression Atlas, Primer Design tools, STRING, GO/Panther, and cloud system such as Seven Bridges Cancer Genomics Cloud. Currently improving Linux skills to use HPC/Server systems. 
+- Common bioinformatics tools such as NCBI, Blast, UCSC Genome Browser, Ensembl, Expression Atlas, Primer Design tools, STRING, GO/Panther, and cloud such as Seven Bridges Cancer Genomics Cloud. Currently improving Ubuntu skills to use HPC/Server systems. 
 
 - Skilled in R.
 
-- MBG wetlab skills such as model organisms: zebrafish, rna-dna isolation, qPCR, in-situ hybridization, cell culture. Currently practicing sequencing.
+- Wetlab basics such as rna-dna isolation, qPCR, cell culture.  Model organisms: zebrafish. Currently practicing sequencing.
 
 
 <!-- Disclaimer {#disclaimer} -->
@@ -54,6 +54,7 @@ Main
 
 Fatma Betul DINCASLAN {#title}
 --------------------------------------------------------------------------------
+Looking for post-doc opportunities in computational biology and bioinformatics for 2024.
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -66,7 +67,7 @@ Singapore
 
 2019-2023
 
-- Development of single cell high throughput assays/protocols.
+- Development of single cell high throughput assays/protocols for 1) total RNA sequencing and 2) multiomics profiling of secreting cells.
 
 ### Master Student
 
@@ -78,7 +79,7 @@ Ankara, Turkey
 
 #### Tissue Specific Transcriptome of Zebrafish in AChE Mutant Embryos
 
-- I analyzed tissue specificity (TS) of zebrafish, considering the dynamicity of gene expression, by using specific metrics such as Tau, Tsi. Then I applied the TS analysis on the mutant zebrafish embryos by using the publicly available datasets. I compared the effect of using different normalization methods on TS discovery as well. I performed qPCRs for in vivo confirmations after isolating the RNAs. I further investigated the relationship between ache and the retinal genes by using the tools like Gene Onthology (GO).
+- I analyzed tissue specificity (TS) of zebrafish, considering the dynamicity of gene expression, by using specific metrics such as Tau, Tsi. I compared the outcome of different normalization methods on TS discovery as well. Then I applied the TS analysis on publicly available mutant zebrafish embryos datasets. I performed qPCRs for in vivo confirmations after isolating the RNAs. I further investigated the relationship between ache and the retinal genes by using the tools like Gene Onthology (GO).
 
 #### Role of AChE as a tumor suppressor together with p53
 
@@ -86,35 +87,25 @@ Ankara, Turkey
 
 #### Identification of peridodontis disease related genes (collaboration w/Dentistry Department of Ankara University)
 
-- I assisted the dentistry students to perform both wet lab and bioinformatics analysis.
+- I assisted the dentistry students.
 
 #### Role of mineralocorticoid receptor in breast cancer
 
-- My roles in the wet lab part were RNA isolation and qPCR; for the dry lab, development of easy to use pipeline with Seven Bridges CGC and available R packages for RNA-Seq data analysis, and data visualization.
+- My roles in the wet lab part were RNA isolation and qPCR; for the dry lab, making a pipeline with Seven Bridges CGC and available R packages for RNA-Seq data analysis, and data visualization.
 
-### Investigation of allergen specific immunotherapy on patients with bee-venom allergy
-
-Bilkent University - Supervisor: Ihsan GURSEL 
-
-Ankara, Turkey
-
-2015 Fall
-
-- I experienced PBMC isolation
-
-###  The relationship between some of Mesp family genes and other known somitogenesis genes in zebrafish vertebrae development
-
-Albert Einstein College of Medicine - Supersivor: Ertugrul OZBUDAK
-
-NY, USA
-
-2015 Summer
-
-- I did lots of in situ hybridization experiments with zebrafish embryos to study somitogenesis.
 
 
 Teaching and Assistanships {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
+
+### Mentor, Bilkent and NUS
+
+Have been mentoring different undergrad students since grad school.
+
+Earth
+
+2017 -present
+
 
 ### BN2301 Fundamental Biochemistry and Biomaterials for Bioengineers, NUS
 
@@ -122,7 +113,7 @@ Teaching Assistant
 
 Singapore
 
-2020
+2020 - 2022
 
 ### MBG326 Introduction to Bioinformatics, Bilkent University
 
@@ -130,7 +121,7 @@ Teaching assistant for introduction to bioinformatics and R programming
 
 Ankara, Turkey
 
-2018
+2017 - 2018
 
 ### MBG302 Molecular Biology of The Cell-II, Bilkent University
 
@@ -140,14 +131,6 @@ Ankara, Turkey
 
 2018
 
-### MBG326 Introduction to Bioinformatics, Bilkent University
-
-Same above (2018 version)
-
-Ankara, Turkey
-
-2017
-
 ### MBG223 Molecular Genetics, Bilkent University
 
 Teaching assistant for molecular cloning experiments from plasmid editing, restriction enzyme digestion, and ligation to miniprep.
@@ -156,68 +139,36 @@ Ankara, Turkey
 
 2017
 
-### Webpage Assistant
-
-KONU Lab, Bilkent Zebrafish Facility and Bilkent MBG Websites
-
-Ankara, Turkey
-
-2018 - 2019
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ### PhD Student, Biomedical Engineering
 
-National University of Singapore
+I am currently working on two different projects regarding the single cell sequencing and its application on microfluidics systems
 
-Singapore
+NUS, Singapore
 
 2019 - 2023
-
-- I am currently working on two different projects regarding the single cell sequencing and its application on microfluidics systems.
-
 
 
 ### M.Sc., Molecular Biology and Genetics  
 
-Bilkent University
-
-Ankara, Turkey
-
-2017 - 2019
-
 Thesis: Tissue Specific Transcriptome of Zebrafish in AChE Mutant Embryos
 
+Bilkent University, Ankara, Turkey
+
+2017 - 2019
 
 
 ### B.Sc., Molecular Biology and Genetics
 
-Bilkent University
+(First year is English Prep School) 
 
-Ankara, Turkey
+Bilkent University, Ankara, Turkey
 
-2012 - 2016
+2011 - 2016
 
-
-
-### English Preparation School
-
-Bilkent University
-
-Ankara, Turkey
-
-2012
-
-
-
-### Mathematics and Science
-
-Sami Yangin Anatolian High School
-
-Kayseri, Turkey
-
-2011
 
 
 Awards and Honour {data-icon=award}
@@ -231,6 +182,14 @@ Singapore
 
 2019 - 2023
 
+### eLife Ambassador
+
+Trainee of "learning and community-building"
+
+Earth
+
+2022
+
 ### Graduated with High Honour for MSc Degree
 
 Bilkent University Molecular Biology and Genetics
@@ -241,19 +200,19 @@ Ankara, Turkey
 
 ### ISCB Student Council Active Member
 
-Virtual webinars team
+Virtual seminars (webinar) team
 
 World
 
 2020 -present
 
-### ISCB-RSG Turkey Student Council Active Member
+### ISCB-RSG Student Council Turkey
 
-Social media and website content creator
+Previously social media and website content team, now Med&Omics
 
 Turkey
 
-2018 - present
+2018 -present
 
 ### Graduated with Honour for BSc Degree
 
@@ -263,13 +222,6 @@ Ankara, Turkey
 
 2016
 
-### Writer at Biomedya
-
-Turkish web-based magazine on synthetic biology and life sciences
-
-Turkey
-
-2016
 
 ### Comprehensive Scholarship
 
@@ -286,22 +238,31 @@ OTHER INTERESTS {data-icon=chess}
 ###
 
 ::: concise
-- Sports: Playing Basketball and Volleyball
-- Art and Music: Charcoal, Reed Flute(Beginner)
-- Games: Chess, Checker, Mind games such as Sudoku, Kendoku, Futoshiki.
-- Computer related: HTML Fundamentals, CSS Fundamentals, JavaScript Tutorial, PHP Tutorial, SQL Fundamentals, Python 3
-Tutorial, C# Tutorial, Ruby Tutorial, Swift 4 Tutorial courses, certificated by SoloLearn
+- Sports: Playing Basketball and Chess, Running
+- Art: Charcoal
 - Other: Data science, statistics shared by Conrad Hacketts, World Economic Forum, Economics and Forbes Magazine. 
 :::
-
 
 
 Selected Publications and Posters {data-icon=file}
 --------------------------------------------------------------------------------
 
-### A pipeline for examination of tissue-specificity of differentially expressed genes in zebrafish mutants: Application to AChE mutants
+-   Lessons from a ten-year-long journey: building a student-driven computational biology society across Turkey
+
+Yasin Kaya, Tülay Karakulak, Cemil Can Saylan, E. Ravza Gür, Engin Tatlıdil, Sevilay Güleşen, **Fatma Betül Dinçaslan**, Handan Melike Dönertaş
+
+F1000Research, DOI: 10.12688/f1000research.107886.1 
+
+-   Functional analysis of co-expression networks of zebrafish ace2 reveals enrichment of pathways associated with development and disease
+
+Ayse Gokce Keskus, Melike Tombaz, Burcin Irem Arici, **Fatma Betul Dincaslan**, Afshan Nabi, Huma Shehwana, and Ozlen Konu
+
+Genome, DOI: 10.1139/gen-2021-0033
+
+-   A pipeline for examination of tissue-specificity of differentially expressed genes in zebrafish mutants: Application to AChE mutants
+
+**Fatma B. Dincaslan**, Afshan Nabi, M. Efe Isilak, Ayse G. Keskus, M. Ender Avci, Michelle M. Adams, Ozlen Konu
 
 Poster for International Symposium on Health Informatics and Bioinformatics (HIBIT) (2018, Antalya, Turkey)
 
-**Fatma B. Dincaslan1**, Afshan Nabi1*, M. Efe Isilak2, Ayse G. Keskus2, M. Ender Avci5, Michelle M. Adams2,3,4, Ozlen Konu1,2,3
 
