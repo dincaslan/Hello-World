@@ -1,0 +1,279 @@
+---
+title: "Fatma Betül Dinçaslan's resume"
+author: Fatma Betul Dincaslan
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+ ![Fatma Betul Dincaslan](C:/Users/USER/Documents/logo.png){width=100%}
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> fatmab.dincaslan@gmail.com
+- <i class="fa fa-linkedin"></i> [linkedin.com/fbdincaslan](https://www.linkedin.com/in/fbdincaslan)
+- <i class="fa fa-researchgate"></i> [researchgate.com/dincaslan](https://www.researchgate.net/profile/Fatma_Betul_Dincaslan)
+- <i class="fa fa-github"></i> [github.com/dincaslan](https://github.com/dincaslan)
+- <i class="fa fa-medium"></i> [medium.com/dincaslan](https://fatmab-dincaslan.medium.com/)
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+#### Dry-Lab
+<p align="justify">
+  -   Common bioinformatics databases/tools such as NCBI, Primer3, UCSC Genome Browser, Ensembl, Expression Atlas,  STRING, GO/Panther. </p>
+<p align="justify"> 
+  -   Bulk and Single Cell Transcriptomics Data Analysis using Command Line Tools and R. </p>
+
+#### Wet-Lab
+<p align="justify">
+  -   DNA and RNA isolation, q/PCR.
+  -   Cell Culture and FACS basics. 
+  -   Library Preparation and Illumina Sequencing. </p>
+
+
+
+
+
+Main
+================================================================================
+
+Fatma Betul DINCASLAN {#title}
+--------------------------------------------------------------------------------
+Available for post-doc/research opportunities in computational biology and bioinformatics
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### NUS Research Scholar (Thesis Submitted)
+
+Biomedical Eng., NUS (Supervisor: Lih Feng CHEOW)
+
+Singapore
+
+2019 - 2023
+
+#### High-Throughput Total RNA-Sequencing of Single Cells
+
+<p align="justify"> My PhD project was about the development of single cell high-throughput assay for total RNA sequencing, which could be easily applied on popular platforms like 10X Chromium. Later, I created a pipeline for total RNA-seq data analysis using open-source tools. I validated the assay on different cell lines and Peripheral Blood Mononuclear Cells (PBMCs). 
+
+#### High-Throughput Profiling of Secreting Single Cells
+
+<p align="justify"> In this side project, we aimed to develop an assay to profile secreting vs. non-secreting cells of pancreatic islets upon certain stimuli. (Not Completed) </p>
+
+### Master's Student
+
+MBG, Bilkent University (Supervisor: Ozlen KONU)
+
+Ankara, Turkey
+
+2016 - 2019
+
+#### [Tissue Specific Transcriptome of Zebrafish in AChE Mutant Embryos](https://repository.bilkent.edu.tr/server/api/core/bitstreams/70b878d8-1ae2-47c9-8bdb-39268235f392/content)
+
+<p align="justify"> I analyzed tissue specificity (TS) of zebrafish, considering the dynamicity of gene expression, using specific metrics such as Tau, Tsi. Furthermore, I compared the outcome of different normalization methods on TS discovery. Then, I applied the TS analysis on publicly available datasets of mutant zebrafish embryos. I performed qPCRs for in vivo confirmations after isolating RNA of model zebrafish embryos. I further investigated the relationship between ache and the retinal genes by using the tools like Gene Onthology (GO).  </p>
+
+#### Role of mineralocorticoid receptor in breast cancer
+
+<p align="justify"> My roles in the wet lab part were RNA isolation and qPCR; for the dry lab, making a pipeline with Seven Bridges CGC and available R packages for RNA-Seq data analysis, and data visualization.  </p>
+
+
+
+Teaching and Assistanships {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### BN2301 Fundamental Biochemistry and Biomaterials for Bioengineers, NUS
+
+Teaching Assistant (TA)
+
+Singapore
+
+2020 - 2022
+
+### MBG326 Introduction to Bioinformatics, Bilkent University
+
+TA for introduction to bioinformatics and R/RStudio
+
+Ankara, Turkey
+
+2017 - 2018
+
+### MBG223 Molecular Genetics and MBG302 Molecular Biology of The Cell-II, Bilkent University
+
+<p align="justify"> MBG223 - TA for molecular cloning experiments: plasmid editing, restriction enzyme digestion, ligation and miniprep. MBG302 - TA for the cell culture experiments: scratch, kinase inhibition and crystal violet assays. </p>
+
+Ankara, Turkey
+
+2017 - 2018
+
+
+
+::: aside
+
+- #### Mentor, Bilkent and NUS
+
+- I one-on-one mentored a few of these undergrad students since 2017.
+
+:::
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Ph.D. Candidate, Biomedical Engineering
+
+Thesis: Development of an Assay for High-Throughput Total RNA Sequencing of Single Cells
+
+NUS, Singapore
+
+2019 - 2023
+
+### M.Sc., Molecular Biology and Genetics  
+
+Thesis: Tissue Specific Transcriptome of Zebrafish in AChE Mutant Embryos
+
+Bilkent University, Ankara, Turkey
+
+2017 - 2019
+
+### B.Sc., Molecular Biology and Genetics
+
+(First year is English Prep School) 
+
+Bilkent University, Ankara, Turkey
+
+2011 - 2016
+
+
+
+::: aside
+
+- #### Highlights
+
+<p align="justify"> I learnt the basics of programming during the undergrad years. Then, I used R for differential gene expression (DEG) analysis of bulk RNA-seq data, and data visualization -ggplot- during the grad school. Moreover, I learnt how to use linux/ubuntu server, and command line tools for data analysis during PhD. </p>
+
+:::
+
+
+
+Awards and Honour {data-icon=award}
+--------------------------------------------------------------------------------
+
+### NUS Research Scholarship
+
+NUS Biomedical Engineering
+
+Singapore
+
+2019 - 2023
+
+### eLife Ambassador
+
+Trainee of "learning and community-building"
+
+Earth
+
+2022
+
+### ISCB Student Council Active Member
+
+Part of virtual seminars (webinar) team of ISCB-SC and Organization team of Asian Student Council Symposium, #ASCS2022
+
+World
+
+2020 - 2022
+
+### ISCB-RSG Student Council Turkey
+
+Previously social media and website content team, symposium organization, now [Med&Omics](https://github.com/dincaslan/Med-Omics)
+
+Turkey
+
+2018 - present
+
+### Comprehensive Scholarship
+
+Awarded by Bilkent University
+
+Ankara, Turkey
+
+2011 - 2016
+
+
+
+::: aside
+
+- #### Future Plans
+
+<p align="justify"> I will continue supporting open-science, open-source, and ISCB-SC events. </p>
+
+:::
+
+
+Other Interests {data-icon=chess}
+--------------------------------------------------------------------------------
+###
+  -   Playing Basketball and Bullet Chess, Running, Indoor Climbing
+  -   Reproducibility in Science and Open Science
+  -   Learning via SoloLearn, Data Science, and Blogging about DataViz 
+  
+
+
+Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+<p align="justify">
+-   High-Throughput Total RNA-Sequencing of Single Cells
+
+**Fatma Betul Dincaslan**, Lih Feng Cheow
+
+Oral Presentation for jointly hosted CSI-ENS Symposium: Single-Cell Res/volution 2023 (2023, Singapore)
+
+-   1st ASCS: Expanding the ISCB Student Council Symposia to Asia
+
+Aayush Grover, Arsalan Riaz, Syed Muktadir Al Sium, **Fatma B. Dincaslan**, Sanjana Fatema Chowdhury, Gabriel J Olguin-Orellana, R. Gonzalo Parra, Pradeep Eranti
+
+F1000Research, DOI: 10.12688/f1000research.135767.1
+
+-   Lessons from a ten-year-long journey: building a student-driven computational biology society across Turkey
+
+Yasin Kaya, Tülay Karakulak, Cemil Can Saylan, E. Ravza Gür, Engin Tatlıdil, Sevilay Güleşen, **Fatma Betül Dinçaslan**, Handan Melike Dönertaş
+
+F1000Research, DOI: 10.12688/f1000research.107886.1 
+
+-   Functional analysis of co-expression networks of zebrafish ace2 reveals enrichment of pathways associated with development and disease
+
+Ayse Gokce Keskus, Melike Tombaz, Burcin Irem Arici, **Fatma Betul Dincaslan**, Afshan Nabi, Huma Shehwana, and Ozlen Konu
+
+Genome, DOI: 10.1139/gen-2021-0033
+
+-   A pipeline for examination of tissue-specificity of differentially expressed genes in zebrafish mutants: Application to AChE mutants
+
+**Fatma B. Dincaslan**, Afshan Nabi, M. Efe Isilak, Ayse G. Keskus, M. Ender Avci, Michelle M. Adams, Ozlen Konu
+
+Poster for International Symposium on Health Informatics and Bioinformatics (HIBIT) (2018, Antalya, Turkey)
+ </p>
+
+
+
+::: aside
+
+<!-- Disclaimer {#disclaimer} -->
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+Last updated on `r Sys.Date()`. 
+
+:::
+
+
+
+
+<!-- -->
