@@ -20,7 +20,6 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> fatmab.dincaslan@gmail.com
 - <i class="fa fa-linkedin"></i> [linkedin.com/fbdincaslan](https://www.linkedin.com/in/fbdincaslan)
-- <i class="fa fa-researchgate"></i> [researchgate.com/dincaslan](https://www.researchgate.net/profile/Fatma_Betul_Dincaslan)
 - <i class="fa fa-github"></i> [github.com/dincaslan](https://github.com/dincaslan)
 - <i class="fa fa-medium"></i> [medium.com/dincaslan](https://fatmab-dincaslan.medium.com/)
 - For more information, please contact me via email.
@@ -55,7 +54,7 @@ Available for post-doc/research opportunities in computational biology and bioin
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### NUS Research Scholar (Thesis Submitted)
+### NUS Research Scholar (Thesis Defended)
 
 Biomedical Eng., NUS (Supervisor: Lih Feng CHEOW)
 
@@ -83,54 +82,11 @@ Ankara, Turkey
 
 <p align="justify"> I analyzed tissue specificity (TS) of zebrafish, considering the dynamicity of gene expression, using specific metrics such as Tau, Tsi. Furthermore, I compared the outcome of different normalization methods on TS discovery. Then, I applied the TS analysis on publicly available datasets of mutant zebrafish embryos. I performed qPCRs for in vivo confirmations after isolating RNA of model zebrafish embryos. I further investigated the relationship between ache and the retinal genes by using the tools like Gene Onthology (GO).  </p>
 
-#### Role of mineralocorticoid receptor in breast cancer
-
-<p align="justify"> My roles in the wet lab part were RNA isolation and qPCR; for the dry lab, making a pipeline with Seven Bridges CGC and available R packages for RNA-Seq data analysis, and data visualization.  </p>
-
-
-
-Teaching and Assistanships {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### BN2301 Fundamental Biochemistry and Biomaterials for Bioengineers, NUS
-
-Teaching Assistant (TA)
-
-Singapore
-
-2020 - 2022
-
-### MBG326 Introduction to Bioinformatics, Bilkent University
-
-TA for introduction to bioinformatics and R/RStudio
-
-Ankara, Turkey
-
-2017 - 2018
-
-### MBG223 Molecular Genetics and MBG302 Molecular Biology of The Cell-II, Bilkent University
-
-<p align="justify"> MBG223 - TA for molecular cloning experiments: plasmid editing, restriction enzyme digestion, ligation and miniprep. MBG302 - TA for the cell culture experiments: scratch, kinase inhibition and crystal violet assays. </p>
-
-Ankara, Turkey
-
-2017 - 2018
-
-
-
-::: aside
-
-- #### Mentor, Bilkent and NUS
-
-- I one-on-one mentored a few of these undergrad students since 2017.
-
-:::
-
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Ph.D. Candidate, Biomedical Engineering
+### Ph.D., Biomedical Engineering
 
 Thesis: Development of an Assay for High-Throughput Total RNA Sequencing of Single Cells
 
@@ -156,6 +112,34 @@ Bilkent University, Ankara, Turkey
 
 
 
+Teaching and Assistanships {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### BN2301 Fundamental Biochemistry and Biomaterials for Bioengineers, NUS
+
+Teaching Assistant (TA)
+
+Singapore
+
+2020 - 2022
+
+### MBG326 Introduction to Bioinformatics, Bilkent University
+
+TA for introduction to bioinformatics and R/RStudio (e.g., common databases and tools, data analysis using Bioconductor/CRAN packages)
+
+Ankara, Turkey
+
+2017 - 2018
+
+### MBG223 Molecular Genetics and MBG302 Molecular Biology of The Cell-II, Bilkent University
+
+<p align="justify"> MBG223 - TA for molecular cloning experiments: plasmid editing, restriction enzyme digestion, ligation and miniprep. MBG302 - TA for the cell culture experiments: scratch, kinase inhibition and crystal violet assays. </p>
+
+Ankara, Turkey
+
+2017 - 2018
+
+
 ::: aside
 
 - #### Highlights
@@ -171,7 +155,7 @@ Awards and Honour {data-icon=award}
 
 ### NUS Research Scholarship
 
-NUS Biomedical Engineering
+Awarded by Singapore-MOE and NUS for PhD in Biomedical Engineering
 
 Singapore
 
@@ -179,7 +163,7 @@ Singapore
 
 ### eLife Ambassador
 
-Trainee of "learning and community-building"
+Short-term trainee of "learning and community-building"
 
 Earth
 
@@ -187,7 +171,8 @@ Earth
 
 ### ISCB Student Council Active Member
 
-Part of virtual seminars (webinar) team of ISCB-SC and Organization team of Asian Student Council Symposium, #ASCS2022
+Virtual seminars (webinar) team member in ISCB-SC and
+Organization team of Asian Student Council Symposium, #ASCS2022
 
 World
 
@@ -195,7 +180,7 @@ World
 
 ### ISCB-RSG Student Council Turkey
 
-Previously social media and website content team, symposium organization, now [Med&Omics](https://github.com/dincaslan/Med-Omics)
+Previously social media team, symposium organization, later [Med&Omics](https://github.com/dincaslan/Med-Omics)
 
 Turkey
 
@@ -215,9 +200,10 @@ Ankara, Turkey
 
 - #### Future Plans
 
-<p align="justify"> I will continue supporting open-science, open-source, and ISCB-SC events. </p>
+<p align="justify"> I am planning to continue supporting open-science, open-source, and ISCB-SC events. </p>
 
 :::
+
 
 
 Other Interests {data-icon=chess}
@@ -225,8 +211,14 @@ Other Interests {data-icon=chess}
 ###
   -   Playing Basketball and Bullet Chess, Running, Indoor Climbing
   -   Reproducibility in Science and Open Science
-  -   Learning via SoloLearn, Data Science, and Blogging about DataViz 
+  -   Data Visualization in R and Blogging
+  -   Learning data science basics via [SoloLearn](https://www.sololearn.com/en/profile/2932355) or [Kaggle](https://www.kaggle.com/fbdincaslan)
+  -   Exploring cultures via languages using [Duolingo](https://www.duolingo.com/profile/dinclion)
   
+  
+
+
+
 
 
 Publications and Posters {data-icon=file}
